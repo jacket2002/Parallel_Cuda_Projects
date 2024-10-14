@@ -1,0 +1,13 @@
+Test batch size: 10000
+Loading fashion-mnist data...Done
+Loading model...Done
+Conv-GPU==
+prolog complete
+Layer Time: 198.737 ms
+Op Time: 12.5463 ms
+Conv-GPU==
+prolog complete
+Layer Time: 195.905 ms
+Op Time: 67.9961 ms
+
+Test Accuracy: 0.8714

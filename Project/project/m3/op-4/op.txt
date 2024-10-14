@@ -1,0 +1,15 @@
+Test batch size: 10000
+Loading fashion-mnist data...Done
+Loading model...Done
+Conv-GPU==
+this is k 7
+this is map_out 4
+prolog complete
+Layer Time: 178.974 ms
+Op Time: 10.0524 ms
+Conv-GPU==
+this is k 7
+this is map_out 16
+prolog complete
+Layer Time: 170.303 ms
+Op Time: 43.3167 ms

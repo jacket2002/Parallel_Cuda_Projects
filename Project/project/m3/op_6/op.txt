@@ -1,0 +1,48 @@
+13
+
+Op Time: 201.784 ms
+Op Time: 197.366 ms
+
+14
+
+Op Time: 202.821 ms
+Op Time: 197.121 ms
+
+
+15
+
+Op Time: 202.782 ms
+Op Time: 198.233 ms
+
+
+16:
+Op Time: 159.463 ms
+Op Time: 178.177 ms
+
+
+17
+Op Time: 202.081 ms
+Op Time: 197.465 ms
+
+18
+Op Time: 203.837 ms
+Op Time: 196.133 ms
+
+19
+Op Time: 202.654 ms
+Op Time: 197.111 ms
+
+20
+
+Op Time: 201.892 ms
+Op Time: 198.502 ms
+
+21
+
+Op Time: 203.444 ms
+Op Time: 193.288 ms
+
+22
+
+Op Time: 202.821 ms
+Op Time: 197.121 ms

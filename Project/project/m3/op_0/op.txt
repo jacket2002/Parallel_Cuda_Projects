@@ -1,0 +1,9 @@
+
+Layer Time: 155.561 ms
+Op Time: 0.00586 ms
+Conv-GPU==
+prolog complete
+Layer Time: 134.771 ms
+Op Time: 0.004709 ms
+
+Test Accuracy: 0.8714
